@@ -1,0 +1,43 @@
+attribute,category_baseline,category_idaf,LR_loden_rosener_1991,GR_gardenswartz_rowe_1998,RC_rijamampianina_carmichael_2005,M_maier_2005,n_frameworks
+Age,Fixed,Fixed,1,1,1,1,4
+Appearance,Variable,Variable,0,1,0,1,2
+Assumptions,Value foundations,Value foundations,0,0,1,0,1
+Attitudes,Value foundations,Value foundations,0,0,1,0,1
+Beliefs,Value foundations,Value foundations,0,0,1,0,1
+Communication Style,Variable,Variable,1,0,0,0,1
+Culture,Variable,Variable,0,0,1,0,1
+Education,Variable,Variable,1,1,1,1,4
+Ethnicity,Fixed,Fixed,1,1,1,1,4
+Feelings,Value foundations,Value foundations,0,0,1,0,1
+Functional Level,Workplace,Workplace,0,1,0,1,2
+Gender,Fixed,Fixed,1,1,1,1,4
+Geographic Location,Variable,Variable,1,1,1,1,4
+Group Norms,Value foundations,Value foundations,0,0,1,0,1
+Income,Variable,Variable,1,1,1,1,4
+Language,Variable,Variable,1,0,1,0,2
+Lifestyle,Variable,Variable,0,0,1,0,1
+Marital Status,Variable,Variable,0,1,0,1,2
+Mental Health,Variable,Variable,0,0,0,1,1
+Military Experience,Variable,Variable,1,0,0,0,1
+Nationality,Variable,Variable,0,0,1,0,1
+Organizational Level,Variable,Workplace,1,0,0,0,1
+Parental Status,Variable,Variable,1,1,1,1,4
+Perceptions,Value foundations,Value foundations,0,0,1,0,1
+Personal Habits,Variable,Variable,0,1,0,1,2
+Personality,Core,Core,0,1,0,0,1
+Physical Abilities,Fixed,Fixed,1,1,1,1,4
+Political Orientation,Variable,Variable,0,0,1,0,1
+Race,Fixed,Fixed,1,1,1,1,4
+Recreational Habits,Variable,Variable,0,1,0,1,2
+Religion,Variable,Variable,1,1,1,1,4
+Seniority,Workplace,Workplace,0,1,0,1,2
+Sexual Orientation,Fixed,Fixed,1,1,1,1,4
+Thinking Style,Variable,Variable,0,0,1,0,1
+Union Affiliation,Workplace,Workplace,0,1,0,1,2
+Values,Value foundations,Value foundations,0,0,1,0,1
+Work Department,Workplace,Workplace,0,1,0,1,2
+Work Experience,Variable,Workplace,1,1,1,1,4
+Work Field,Workplace,Workplace,0,1,0,1,2
+Work Location,Workplace,Workplace,0,1,0,1,2
+Work Management Status,Workplace,Workplace,0,1,0,1,2
+Work Style,Variable,Workplace,1,0,0,0,1
