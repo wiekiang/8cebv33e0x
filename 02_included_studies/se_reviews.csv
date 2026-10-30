@@ -1,35 +1,35 @@
-code,title,authors,year,stratum,stratum_basis,review_status,scope_tag,in_primary_analysis,note
-P1,Accessibility and software engineering processes: A systematic literature review,"Paiva, D. M. B., Freire, A. P. and de Mattos Fortes, R. P.",2021,b,title and abstract,review,,no,Accessibility in SE processes; about building accessible software
-P2,Accessibility evaluation of E-government web applications: A systematic review,"Cisneros, D., Huamán Monzón, F. and Paz, F.",2021,b,title and abstract,review,,no,
-P3,Accessibility in the software engineering (SE) process and in integrated development environments (IDEs): A systematic literature review,"Rajh, N., Miesenberger, K. and Koutny, R.",2024,borderline,title and abstract,review,,no,IDE accessibility concerns developers with disabilities; borderline
-P4,Agile software development and software practitioners' productivity amidst the COVID-19 pandemic: A narrative review,"Anthony Jnr, B.",2024,a,title and abstract,review,broad,yes,Narrative review; diversity marginal
-P5,AI in the workplace: A systematic review of skill transformation in the industry,"Babashahi, L. et al.",2024,c,title and abstract,review,,no,
-P6,Artificial intelligence in web accessibility: A systematic mapping study,"Campoverde-Molina, M. and Luján-Mora, S.",2026,b,title and abstract,review,,no,
-P7,Barriers faced by women in software development projects,"Dias Canedo, E. et al.",2019,a,full text,review,single_group,yes,"Confirmed from full text: systematic literature review (Information 10(10):309, 2019)"
-P8,Co-designing with senior citizens: A systematic literature review,"Machado, S., Costa, L. V. and Mealha, Ó.",2021,b,title and abstract,review,,no,
-P9,Conceptual modeling of gender-inclusive requirements,"Nunes, I., Moreira, A. and Araujo, J.",2021,excluded,full text,primary study,,no,"Excluded at full text: model proposal, not a review (ER 2021, LNCS 13011). Previously stratum (b)"
-P10,The developer experience of LGBTQIA+ people in agile teams: A multivocal literature review,"Wassouf, E. R., Paiva, D., Gama, K. and Fontão, A.",2025,a,title and abstract,review,single_group,yes,
-P11,"Digital content for libraries considering extended reality, physical interaction disabilities, universal design for learning and user-centered design: A systematic review","Ramos Aguiar, L. R. and Álvarez Rodríguez, F. J.",2024,b,title and abstract,review,,no,
-P12,Effective inclusion of people with disabilities in software development teams,"Rocha, T. A. d., Souza, C. d., Teran, L. and Mota, M.",2024,a,full text,review,single_group,yes,Confirmed from full text: systematic literature review (ESEM 2024)
-P13,Factors influencing software development competencies of GSD Teams: Extraction from SLR and empirical study,"Khan, M., Ilyas, M., Qadah, T. M. and Ghaffar, A.",2024,a,title and abstract,review,broad,yes,
-P14,Gender diversity in software development teams: A systematic literature review,"Alarcón-Alarcón, J. et al.",2024,a,title and abstract,review,single_group,yes,
-P15,Gender diversity interventions in software engineering: A comprehensive review of existing practices,"Cutrupi, C. M., Jaccheri, L. and Serebrenik, A.",2026,a,title and abstract,review,single_group,yes,
-P16,Gender dynamics in software engineering: Insights from research on concurrency bug reproduction,"Zaman, T. S., Kishan, M. H. and Lota, L. N.",2025,excluded,full text,"preprint, not peer reviewed",,no,"Excluded at full text: arXiv-only literature review of gender ratios among researchers, not peer reviewed and not about practitioners (arXiv:2502.20289). Previously borderline"
-P17,Gender equality in tech entrepreneurship: A systematic mapping study,"Wilson, A. W. and Patón-Romero, J. D.",2022,borderline,title and abstract,review,,no,Entrepreneurs rather than developers; borderline
-P18,GIRE: Gender-Inclusive Requirements Engineering,"Nunes, I., Moreira, A. and Araujo, J.",2023,excluded,full text,primary study,,no,"Excluded at full text: model and tool with evaluation, journal extension of P9, not a review (Data & Knowledge Engineering 143, 2023). Previously stratum (b)"
-P19,Identification of practices for representing indigenous groups in software requirements elicitation: A systematic literature review,"Sánchez-Pereyra, M. et al.",2024,b,title and abstract,review,,no,
-P20,Implementation of personalized frameworks in computational thinking development: Implications for teaching in software engineering,"Guevara-Reyes, J. et al.",2025,c,title and abstract,review,,no,Borderline (a) if students count
-P21,The influence of cultural factors in software quality assessment models: A systematic literature review,"Januhari, N. N. U. et al.",2024,borderline,title and abstract,review,,no,Borderline
-P22,Intelligent approaches in the software development process: A systematic literature mapping,"Teran, L. A. et al.",2021,c,title and abstract,review,,no,
-P23,Intercultural challenges in offshore software development outsourcing relationships: An exploratory study using a systematic literature review,"Khan, S. U. and Azeem, M. I.",2014,a,title and abstract,review,single_group,yes,
-P24,Investigating the barriers that women face in software development teams focusing on the context of proprietary software ecosystems,"do Outão, J. C. S. et al.",2024,a,full text,review,single_group,yes,Confirmed from full text: review of 29 studies (ICSOB 2023)
-P25,"Landscape of sign language research based on smartphone apps: Coherent literature analysis, motivations, open challenges, recommendations and future directions for app assessment","David, D. et al.",2024,b,title and abstract,review,,no,
-P26,Perceived diversity in software engineering: A systematic literature review,"Rodríguez-Pérez, G., Nadri, R. and Nagappan, M.",2021,a,title and abstract,review,broad,yes,
-P27,Practicing equity diversity inclusion (EDI) in software development teams: A systematic literature survey,"Aleem, S. and Ahmed, F.",2023,a,title and abstract,review,broad,yes,
-P28,Queering software engineering education: Integrative approaches and student experiences,"Browning, J. W., Bustard, J. and Anderson, N.",2024,borderline,title and abstract,review,,no,Students rather than practitioners
-P29,"A review of learning analytics dashboard research in higher education: Implications for justice, equity, diversity, and inclusion","Williamson, K. and Kizilcec, R.",2022,c,title and abstract,review,,no,
-P30,A rubric to identify misogynistic and sexist texts from software developer communications,"Sultana, S., Sarker, J. and Bosu, A.",2021,borderline,full text,review,,no,"Confirmed from full text: mixed design, SLR of 10 studies plus a rubric (ESEM 2021). Borderline because the primary contribution is the rubric"
-P31,Social sustainability approaches for software development: A systematic literature review,"Moises de Souza, A. C. et al.",2024,a,title and abstract,review,broad,yes,
-P32,A systematic mapping of translation-enabling technologies for sign languages,"Naranjo-Zeledón, L. et al.",2019,b,title and abstract,review,,no,
-P33,A systematic mapping study of diversity in software engineering: A perspective from the agile methodologies,"Silveira, K. K. and Prikladnicki, R.",2019,a,title and abstract,review,broad,yes,
-P34,Visibility of women in the software development life cycle,"Marlene Valeria Negrier, S. et al.",2023,a,full text,review,single_group,yes,"Confirmed from full text: mixed design, systematic mapping (Petersen) plus a survey of 40 engineers; counted as a review because the mapping component is systematic (JCS&T 23(2), 2023)"
+code,title,authors,year
+P1,Accessibility and software engineering processes: A systematic literature review,"Paiva, D. M. B., Freire, A. P. and de Mattos Fortes, R. P.",2021
+P2,Accessibility evaluation of E-government web applications: A systematic review,"Cisneros, D., Huamán Monzón, F. and Paz, F.",2021
+P3,Accessibility in the software engineering (SE) process and in integrated development environments (IDEs): A systematic literature review,"Rajh, N., Miesenberger, K. and Koutny, R.",2024
+P4,Agile software development and software practitioners' productivity amidst the COVID-19 pandemic: A narrative review,"Anthony Jnr, B.",2024
+P5,AI in the workplace: A systematic review of skill transformation in the industry,"Babashahi, L. et al.",2024
+P6,Artificial intelligence in web accessibility: A systematic mapping study,"Campoverde-Molina, M. and Luján-Mora, S.",2026
+P7,Barriers faced by women in software development projects,"Dias Canedo, E. et al.",2019
+P8,Co-designing with senior citizens: A systematic literature review,"Machado, S., Costa, L. V. and Mealha, Ó.",2021
+P9,Conceptual modeling of gender-inclusive requirements,"Nunes, I., Moreira, A. and Araujo, J.",2021
+P10,The developer experience of LGBTQIA+ people in agile teams: A multivocal literature review,"Wassouf, E. R., Paiva, D., Gama, K. and Fontão, A.",2025
+P11,"Digital content for libraries considering extended reality, physical interaction disabilities, universal design for learning and user-centered design: A systematic review","Ramos Aguiar, L. R. and Álvarez Rodríguez, F. J.",2024
+P12,Effective inclusion of people with disabilities in software development teams,"Rocha, T. A. d., Souza, C. d., Teran, L. and Mota, M.",2024
+P13,Factors influencing software development competencies of GSD Teams: Extraction from SLR and empirical study,"Khan, M., Ilyas, M., Qadah, T. M. and Ghaffar, A.",2024
+P14,Gender diversity in software development teams: A systematic literature review,"Alarcón-Alarcón, J. et al.",2024
+P15,Gender diversity interventions in software engineering: A comprehensive review of existing practices,"Cutrupi, C. M., Jaccheri, L. and Serebrenik, A.",2026
+P16,Gender dynamics in software engineering: Insights from research on concurrency bug reproduction,"Zaman, T. S., Kishan, M. H. and Lota, L. N.",2025
+P17,Gender equality in tech entrepreneurship: A systematic mapping study,"Wilson, A. W. and Patón-Romero, J. D.",2022
+P18,GIRE: Gender-Inclusive Requirements Engineering,"Nunes, I., Moreira, A. and Araujo, J.",2023
+P19,Identification of practices for representing indigenous groups in software requirements elicitation: A systematic literature review,"Sánchez-Pereyra, M. et al.",2024
+P20,Implementation of personalized frameworks in computational thinking development: Implications for teaching in software engineering,"Guevara-Reyes, J. et al.",2025
+P21,The influence of cultural factors in software quality assessment models: A systematic literature review,"Januhari, N. N. U. et al.",2024
+P22,Intelligent approaches in the software development process: A systematic literature mapping,"Teran, L. A. et al.",2021
+P23,Intercultural challenges in offshore software development outsourcing relationships: An exploratory study using a systematic literature review,"Khan, S. U. and Azeem, M. I.",2014
+P24,Investigating the barriers that women face in software development teams focusing on the context of proprietary software ecosystems,"do Outão, J. C. S. et al.",2024
+P25,"Landscape of sign language research based on smartphone apps: Coherent literature analysis, motivations, open challenges, recommendations and future directions for app assessment","David, D. et al.",2024
+P26,Perceived diversity in software engineering: A systematic literature review,"Rodríguez-Pérez, G., Nadri, R. and Nagappan, M.",2021
+P27,Practicing equity diversity inclusion (EDI) in software development teams: A systematic literature survey,"Aleem, S. and Ahmed, F.",2023
+P28,Queering software engineering education: Integrative approaches and student experiences,"Browning, J. W., Bustard, J. and Anderson, N.",2024
+P29,"A review of learning analytics dashboard research in higher education: Implications for justice, equity, diversity, and inclusion","Williamson, K. and Kizilcec, R.",2022
+P30,A rubric to identify misogynistic and sexist texts from software developer communications,"Sultana, S., Sarker, J. and Bosu, A.",2021
+P31,Social sustainability approaches for software development: A systematic literature review,"Moises de Souza, A. C. et al.",2024
+P32,A systematic mapping of translation-enabling technologies for sign languages,"Naranjo-Zeledón, L. et al.",2019
+P33,A systematic mapping study of diversity in software engineering: A perspective from the agile methodologies,"Silveira, K. K. and Prikladnicki, R.",2019
+P34,Visibility of women in the software development life cycle,"Marlene Valeria Negrier, S. et al.",2023
